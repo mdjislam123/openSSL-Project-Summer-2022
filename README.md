@@ -60,15 +60,13 @@ DES: Here I encrypted the messege by DES
 
 ## b.	Create a 2048-bit RSA public and private key: 
 
-![Alt Text](10.png)
-
 RSA public key: 
 
-![Alt Text](11.png)
+![Alt Text](10.png)
 
 RSA private key: 
 
-![Alt Text](12.png)
+![Alt Text](11.png)
 
 ## 4.	 Exchange of encrypted data.
 
@@ -76,10 +74,19 @@ RSA private key:
 Here I encrypt a text file, with rsautl and the lenth of 2048bytes. I encrypted the text file using RSA and seved it 
 as enc and shown with the command line cat.  Bob will get this file and decrypt the messge.
 
-![Alt Text](13.png)
+![Alt Text](12.png)
 
 ## d.	Decrypt the secret of your neighbor: Here bob will see the messege as he decrypt the cipher text below
 
-![Alt Text](14.png)
+![Alt Text](13.png)
+
+
+
+
+
+
+
+
+
 
 
